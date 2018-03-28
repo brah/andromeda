@@ -1,0 +1,67 @@
+body {
+    background: url(../media/newgif.gif) no-repeat center center fixed;
+    font-weight: bold;
+    background-size: cover;
+    color: #ffffff;
+    overflow: hidden;
+}
+.img {
+    position: absolute;
+    display: block;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.center {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Fixedsys, consolas, monospace;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+aa {
+    color: inherit;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Fixedsys, consolas, monospace;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+a:hover {
+    color: #666;
+}
+.centered {
+    display: block;
+    text-align: center;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
