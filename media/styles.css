@@ -3,7 +3,7 @@ body {
     font-weight: bold;
     background-size: cover;
     color: #ffffff;
-	hover: #cccccc;
+    hover: #cccccc;
     overflow: hidden;
 }
 
@@ -20,7 +20,7 @@ body {
 
 .centersms {
     position: relative;
-	left: 42%; /*technically 50% should be centred but it looks autistic :[*/
+    left: 30%;
     top: 10px;
     -webkit-touch-callout: none;
     -webkit-user-select: none;
@@ -42,5 +42,5 @@ a {
 	display: block;
 }
 a:hover{
-	color:#666;
+    color:#666;
 }
